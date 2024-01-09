@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: pink;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
@@ -8,12 +8,11 @@ p {
     font-size: 36px;
 }
 
-.third {
+.fixfont {
     font-size: 24px;
 }
 
 #fourth {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }

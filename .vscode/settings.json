@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/foundations/02-class-id-selectors/index.html"
+  "livePreview.defaultPreviewPath": "/foundations/02-class-id-selectors/index.html",
+  "liveServer.settings.port": 5501
 }
